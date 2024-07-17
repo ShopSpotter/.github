@@ -1,6 +1,6 @@
 # LocalStores
 <p align="center">
-<img src="logo.png">
+<img src="https://github.com/ShopSpotter/.github/blob/main/logo.png">
 </p>
 
 ## Why? 🤔
